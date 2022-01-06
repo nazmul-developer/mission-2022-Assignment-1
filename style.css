@@ -1,13 +1,13 @@
 body{
-    font-family: 'Source Sans Pro', sans-serif;
-    margin: 100px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    margin:150px;
+   
 }
 
 h1{
     font-size: 65px;
     margin: 0;
-    margin-left: ;
-
+    
     border-left-style: solid;
     border-left-color: coral;
     
@@ -20,26 +20,33 @@ h1{
 button{
     background-color: magenta;
     border:none;
-    padding: 10px 35px;
+    padding: 10px 50px;
     border-radius: 5px;
     color: white;
-    font-size: 15px;
+    font-size: 20px;
     text-align: center;
     cursor: pointer;
 }
 
-section{
+.main-div{
     display: flex;
+    
 }
 
-.half-width{
-    width: 50%;
-    padding-left: 10%;
+.photo img{
+    width: 400px;
 }
 
-.half-width img{
-    width: 90%;
+.another-heading{
+    text-align: center;
+    font-size: 35px;
 }
 
+.year{
+    color: deeppink;
+}
 
-
+.all-goal{
+    display: flex;
+    
+}
