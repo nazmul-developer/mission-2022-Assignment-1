@@ -1,6 +1,7 @@
 body{
     font-family: 'Be Vietnam Pro', sans-serif;
     margin:150px;
+    
    
 }
 
@@ -49,4 +50,51 @@ button{
 .all-goal{
     display: flex;
     
+  
+ 
+}
+
+.image img{
+    width: 40%;
+}
+.mission{
+    width: 30%; padding: 25px 30px; border-radius: 20px;margin: 10px;
+    background-color: khaki;
+    justify-content: center;
+}
+.vission{
+    width: 30%; padding: 25px 30px; border-radius: 20px; margin: 10px;
+    background-color: lightcoral;
+    justify-content: center;
+}
+.goals{
+    width: 30%; padding: 25px 30px; border-radius: 20px; margin: 10px;
+    background-color: lightskyblue;
+    justify-content: center;
+}
+
+
+.photo{
+    margin: 70px;
+    margin-top: 70px;
+
+    
+}
+
+.one-side{
+    margin-top: 50px;
+    
+}
+
+h2{
+    font-size: 50px;
+}
+
+.size{
+    font-size: 30px;
+    
+}
+
+.margin{
+    margin: 0 auto;
 }
